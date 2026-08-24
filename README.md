@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Akhavan
 
-<!--
-**aliakhavan2017/aliakhavan2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer
 
-Here are some ideas to get you started:
+.NET • C# • ASP.NET Core • Angular • SQL Server • Docker • Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Projects
+
+### 🏫 Academy
+
+- [Academy API](...)
+- [Academy UI](...)
+- [Academy Admin UI](...)
+
+### 🛒 HoodehShop
+
+- [HoodehShop API](...)
+- [HoodehShop UI](...)
+- [HoodehShop Admin UI](...)
+
+### 🌐 Elora
+
+- [Elora](...)
+
+---
+
+## 🛠️ Technologies
+
+- C# / .NET
+- ASP.NET Core
+- Angular / TypeScript
+- SQL Server
+- Docker / Docker Compose
+- Linux
+- Nginx
+- GitHub Actions
+
+---
+
+## 📫 Contact
+
+[LinkedIn](...)
