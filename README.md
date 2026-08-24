@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-.NET • C# • ASP.NET Core • Angular • SQL Server • Docker • Linux
+.NET • C# • ASP.NET Core • Angular • TypeScript • Python • SQL Server • Docker • Linux
 
 ---
 
@@ -10,32 +10,39 @@
 
 ### 🏫 Academy
 
-- [Academy API](...)
-- [Academy UI](...)
-- [Academy Admin UI](...)
+* [Academy API](https://github.com/aliakhavan2017/academy)
+* [Academy UI](https://github.com/aliakhavan2017/academy-ui)
+* [Academy Admin UI](https://github.com/aliakhavan2017/academy-admin-ui)
 
 ### 🛒 HoodehShop
 
-- [HoodehShop API](...)
-- [HoodehShop UI](...)
-- [HoodehShop Admin UI](...)
+* [HoodehShop API](https://github.com/aliakhavan2017/hoodehshop)
+* [HoodehShop UI](https://github.com/aliakhavan2017/hoodehshop-ui)
+* [HoodehShop Admin UI](https://github.com/aliakhavan2017/hoodehshop-admin-ui)
+
+### 🤖 HoodehShop AI
+
+* [HoodehShop AI](https://github.com/aliakhavan2017/hoodeh-shop-ai)
+
+Python-based AI project for HoodehShop.
 
 ### 🌐 Elora
 
-- [Elora](...)
+* [Elora](https://github.com/aliakhavan2017/elora)
 
 ---
 
 ## 🛠️ Technologies
 
-- C# / .NET
-- ASP.NET Core
-- Angular / TypeScript
-- SQL Server
-- Docker / Docker Compose
-- Linux
-- Nginx
-- GitHub Actions
+* C# / .NET
+* ASP.NET Core
+* Angular / TypeScript
+* Python
+* SQL Server
+* Docker / Docker Compose
+* Linux
+* Nginx
+* GitHub Actions
 
 ---
 
